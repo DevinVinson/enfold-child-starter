@@ -1,10 +1,12 @@
 <?php
-
 /**
+ * Enfold Child Theme - Starter
+ *
+ * @since Enfold Starter 1.0
+ *
  * Add your own functions here. You can also copy some of the theme functions into this file. 
  * Wordpress will use those functions instead of the original functions then.
- *
- * Remove the comments before or around the sample functions and code to use theme. 
+ * 
  * @link http://www.kriesi.at/documentation/enfold/using-a-child-theme/
  */
 
