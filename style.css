@@ -9,4 +9,21 @@ Template: enfold
 
 
 
-/*Add your own styles here:*/
+/* Add your own styles below - You can delete this comment */
+
+
+/**
+ *
+ * Empty css for easily writing over parent styles
+ * 
+ **/
+
+
+/* Typography
+================================================== */
+
+body {
+	font: 13px/1.65em "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #444;
+	-webkit-text-size-adjust: 100%;
+ }
